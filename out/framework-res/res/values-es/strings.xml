@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_upgrading_title">ColorOS se está actualizando</string>
+    <string name="android_upgrading_apk">Optimizando aplicación %1$d de %2$d</string>
+    <string name="android_upgrading_starting_apps">Iniciando aplicaciones</string>
+    <string name="android_upgrading_complete">Finalizando inicio</string>
+</resources>
